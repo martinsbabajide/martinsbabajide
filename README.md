@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on a car dealership website and a UI/UX design of a recommendation system application
-- 🌱 I’m currently learning figma,react native
+- 🌱 I’m currently mastering figma,react native,cloud based applications
 - 👯 I’m looking to collaborate on Uber
 - 🤔 I’m looking for help with back-end development
 - 💬 Ask me about android studio,html,css,javascript or any web and design related stuff
